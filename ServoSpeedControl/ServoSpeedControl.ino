@@ -1,3 +1,12 @@
+/*
+ This code is modified from BARRAGAN <http://barraganstudio.com>
+ 
+ which is in the public domain
+ 
+ from Atakan Durmaz
+ */
+
+
 #include <Servo.h>
 //int pos=0;
 //int val;
